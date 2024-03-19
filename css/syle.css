@@ -87,3 +87,101 @@ header{
     padding-left: 50px;
     margin-top: 1px;
 }
+
+.titoli-ul{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: rubik;
+    list-style-type: none;
+    padding-left: 10px;
+    
+}
+
+.bubble-text-blue{
+    font-size: 12px;
+    background-color: #137ada;
+    color: white;
+    border-radius: 10px;
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+    margin-left: 5px;
+}
+
+.bubble-text-viola{
+    font-size: 12px;
+    background-color: hsl(281, 90%, 52%);
+    color: white;
+    border-radius: 10px;
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+    margin-left: 5px;
+}
+
+.bubble-text-verde{
+    font-size: 12px;
+    background-color: #1cb889;
+    color: white;
+    border-radius: 10px;
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+    margin-left: 5px;
+}
+
+.bubble-text-orange{
+    font-size: 12px;
+    background-color: hwb(39 9% 5%);
+    color: white;
+    border-radius: 10px;
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+    margin-left: 5px;
+}
+
+.bubble-text-verde-chiaro{
+    font-size: 12px;
+    background-color: rgb(18, 179, 66);
+    color: white;
+    border-radius: 10px;
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+    margin-left: 5px;
+}
+
+.bubble-text-rosa{
+    font-size: 12px;
+    background-color: rgb(218, 59, 157);
+    color: white;
+    border-radius: 10px;
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+    margin-left: 5px;
+}
+
+
+ul li{
+    margin-bottom: 20px;
+    text-align: left;
+    width: 1000px;
+    height: 30px;
+    margin-right: 1%;
+    padding-top: 30px;
+}
+
+li{
+    padding-left: 10px;
+    list-style: none;
+
+}
+
+.text-li{
+    margin-left: 30px;
+}
+
+
+    
